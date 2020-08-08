@@ -1,0 +1,8 @@
+prefix=/home/tawfiq/matrix_transform/install
+
+Name: mat_trans
+Description: Description of mat_trans
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tawfiq/matrix_transform/install/lib 
+Requires: 

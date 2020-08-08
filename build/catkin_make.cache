@@ -1,0 +1,2 @@
+mat_trans
+-DCATKIN_DEVEL_PREFIX=/home/tawfiq/matrix_transform/devel -DCMAKE_INSTALL_PREFIX=/home/tawfiq/matrix_transform/install -G Unix Makefiles
